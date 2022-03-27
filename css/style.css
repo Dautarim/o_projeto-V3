@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700;900&display=swap');
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Titillium Web', sans-serif;
+
+}
+/*https://cdn.pixabay.com/photo/2020/01/14/08/47/nude-4764469_960_720.jpg */
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+    background: url("https://bibliomundi.com/blog/wp-content/uploads/f7afde0232239777bf22df246a57f3ad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.container
+{
+    position: relative;
+    background: #333;
+
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.568);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    overflow: hidden;
+}
+.container::after
+{
+    content: "";
+
+    position: absolute;
+
+    width: 98.5%;
+    height:98%;
+
+    background: #333;
+    border-radius: 18px;
+}
+.container::before
+{
+    content: "";
+
+    position: absolute;
+    top: -100;
+    right: 40%;
+
+    width: 120px;
+    height: 600px;
+    border-radius: 20px;
+    background: rgb(255, 0, 170);
+
+    animation: giro 7s linear infinite;
+}
+
+@keyframes giro
+{
+    0%
+    {
+        filter: hue-rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100%
+    {
+        filter: hue-rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.container .conteudo
+{
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container .conteudo.informassao
+{
+    text-align: center;
+
+}
+
+.container .conteudo.informassao h2
+{
+    font-size: 2.3em;
+    color: rgb(255, 0, 170);
+    margin-bottom: 20px;
+}
+
+.container .conteudo.informassao p
+{
+    font-size: 1em;
+    color: white;
+    margin-bottom: 40px;
+
+    width: 70%;
+}
+
+.container .conteudo.opssoes
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.container .conteudo.opssoes .opc
+{
+    margin: 0 20px;
+    padding: 5px 10px;
+
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 700;
+
+    
+    border-radius: 10px;
+}
+
+.container .conteudo.opssoes .opc.sim
+{
+    background: linear-gradient(to right,rgb(255, 0, 170),transparent);
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    background-position-x: right;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: .4s;
+}
+
+.container .conteudo.opssoes .opc.sim:hover
+{
+    background-size: 100% 100%;
+    background-position-x: left;
+    color: #333;
+}
+
+.container .conteudo.opssoes .opc.sim:hover ion-icon
+{
+    color: rgb(253, 0, 169);
+}
+
+.container .conteudo.opssoes .opc.nao
+{
+    background: linear-gradient(to left,rgb(0, 217, 255),transparent);
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    background-position-x: left;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: .4s;
+}
+
+.container .conteudo.opssoes .opc.nao:hover
+{
+    background-size: 100% 100%;
+    background-position-x: right;
+    color: #333;
+}
+
+.container .conteudo.opssoes .opc.nao:hover ion-icon
+{
+    color: rgb(0, 217, 255);
+}
+
+@media(max-width: 510px)
+{
+    
+    .container 
+    {
+        padding: 10px;
+        width: 400px;
+        height: 350px;
+        margin: 10px;
+    }
+
+    .container::after
+    {
+        height:98%; 
+        width: 98%;
+    }
+
+    .container .conteudo.informassao h2 
+    {
+        font-size: 1.6em;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .container .conteudo.informassao p 
+    {
+        font-size: .8em;
+        margin-bottom: 15px;
+    }
+
+    .container .conteudo.opssoes .opc 
+    {
+        margin: 0 8px;
+        font-size: 1.3em;
+    }
+}
