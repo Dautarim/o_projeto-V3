@@ -91,8 +91,35 @@
 .container .cabeca .sites ul li a
 {
     text-decoration: none;
+    transition: .2s;
 
 }
+
+.container .cabeca .sites ul li .canal.c1:hover
+{
+    color: #EA8F1C;
+    font-weight: 700;
+}
+
+.container .cabeca .sites ul li .canal.c2:hover
+{
+    color: #2120D4;
+    font-weight: 700;
+}
+
+.container .cabeca .sites ul li .canal.c3:hover
+{
+    color: #ff0000;
+    font-weight: 600;
+}
+
+.container .cabeca .sites ul li .canal.c4:hover
+{
+    color: #A6171D;
+    font-weight: 600;
+}
+
+
 
 
 
@@ -408,6 +435,7 @@ footer .mesiga ul li a:hover ion-icon
     {
         font-size: 2em;
     }
+
 
     .container .cabeca .menucontrol
     {
