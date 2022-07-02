@@ -96,7 +96,7 @@
 
             <div class="caixa">
                 <div class="caixote imagem">
-                    <img src="https://cdn2.hdporn.pics/uploads3/images/1/121/breasts-nia-nacci-s-sexy-boobs-c61uDk.jpg">
+                    <img src="https://porn.tattoo/pics/atkexotics/nia-nacci/hotteacher-brunette-newpornstar/nia-nacci-3.jpg">
                 </div>
                 <div class="caixote conteudo">
                     <a href="https://pt.pornhub.com/pornstar/nia-nacci" target="_blank">NIA NACCI</a>
@@ -264,7 +264,7 @@
 
             <div class="caixa">
                 <div class="caixote imagem">
-                    <img src="https://cdn3.porn7.net//uploads10/images/6/66/milf-milf-ava-addams-shows-her-naked-body-UCbLgM.jpg" alt="lela star">
+                    <img src="https://pornoquente.tv/wp-content/uploads/2019/05/Ava-Addams-Nua-1.jpg" alt="lela star">
                 </div>
                 <div class="caixote conteudo">
                     <a href="https://pt.pornhub.com/video/search?search=ava+addams" target="_blank">AVA ADAMS</a>
@@ -454,7 +454,7 @@
 
             <div class="caixa">
                 <div class="caixote imagem">
-                    <img src="https://decavn.com/wp-content/uploads/sites/13/2021/11/74-219.jpg" alt="lela star">
+                    <img src="https://biquge665.com/wp-content/uploads/sites/17/2022/02/15-90.jpg" alt="lela star">
                 </div>
                 <div class="caixote conteudo">
                     <a href="https://pt.pornhub.com/model/crystal-lust" target="_blank">CRISTAL LUST</a>
@@ -565,10 +565,16 @@
                     </p>
                 </div>
             </div>
+
+            
         </div>
 
-        <div class="pracima" onclick="pracima()">
+        <div class="pracima" onclick="pracimabtn()">
             <p><ion-icon name="arrow-up-outline"></ion-icon></p>
+        </div>
+
+        <div class="adicionar" onclick="adiconarpornstar()">
+            <p><ion-icon name="add-outline"></ion-icon></p>
         </div>
 
         <footer>
@@ -591,13 +597,63 @@
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 <script>
-    function pracima()
+
+    function adiconarpornstar()
+    {
+        let caixagrande = document.querySelector('.conteudo1')
+        let linkfoto = window.prompt('Coloque aqui o link endeço da imagem.')
+        let linksite = window.prompt('Coloque aqui o link do site da estrela.')
+        let nomedaestrela = window.prompt('Quase lá, Digite o nome da estrela. (de preferencia, tudo maiuculo)')
+        let datadenascimento = window.prompt('Por fim, digite a data de nascimento da estrela')
+
+        if(linkfoto.valueOf == null || linksite.valueOf == null || nomedaestrela.valueOf == null || datadenascimento.valueOf == null)
+        {
+            alert('FORNEÇA TODAS AS INFORMAÇÕES')
+        }
+        else
+        {
+
+        caixagrande.innerHTML += ` <div class="caixa">
+                <div class="caixote imagem">
+                    <img src="${linkfoto}" alt="lela star">
+                </div>
+                <div class="caixote conteudo">
+                    <a href="${linksite}" target="_blank">${nomedaestrela}</a>
+                    <p>
+                        ${datadenascimento}
+                    </p>
+                </div>
+            </div> `
+
+        }
+
+    }
+
+
+    function pracimabtn()
     {
         window.scrollTo({
             top: 0,
             behavior: "smooth"
         })
     }
+
+    function botaosn()
+    {
+        let btn = document.querySelector('.pracima')
+        
+        if(window.scrollY == 0)
+        {
+            btn.style.display = 'none'
+        }
+        else
+        {
+            btn.style.display = 'flex'
+        }
+    }
+
+    addEventListener('scroll',botaosn)
+
     function troca()
     {
         let menu = document.querySelector('.menucontrol')
