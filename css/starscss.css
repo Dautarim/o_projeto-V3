@@ -63,12 +63,15 @@
 
 .container .cabeca .logo
 {
-
+    width: 100px;
+    height: 100px;
 }
 
 .container .cabeca .logo img
 {
-
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
 .container .cabeca .sites
@@ -90,6 +93,7 @@
 
 .container .cabeca .sites ul li a
 {
+
     text-decoration: none;
     transition: .2s;
 
@@ -272,6 +276,7 @@
     font-weight: 900;
     font-size: 1.2em;
     padding: 5px 0px;
+    
     
 }
 
@@ -477,7 +482,7 @@ footer .mesiga ul li a:hover ion-icon
 
     .container .cabeca .sites ul li a
     {
-        font-size: 2em;
+        font-size: 1.3em;
     }
 
 
