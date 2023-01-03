@@ -379,25 +379,20 @@ footer .voltar a
     border-radius: 10px;
 
     text-decoration: none;
-
-    background: linear-gradient(to right,transparent,rgb(0, 255, 242));
-    background-size: 0 100% ;
-    background-position: right;
-    background-repeat: no-repeat;
     transition: .4s;
 
 }
 
 footer .voltar a:hover
 {
-    background-size: 100% 100%;
+    background: #ffffff;
     color: #000000;
     font-weight: 700;
 }
 
 footer .voltar a:hover ion-icon
 {
-    color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
 }
 
 
