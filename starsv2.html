@@ -33,7 +33,7 @@
             
         </div>
 
-        <div class="conteudo1">
+        <div class="conteudo1" id="caixadasstars">
             <div class="caixa">
                 <div class="caixote imagem">
                     <img src="https://www.mypornstarbook.net/pornstars/l/lela_star/gallery104/images/13.jpg" alt="lela star">
@@ -865,10 +865,10 @@
             </div> 
             <div class="caixa">
                 <div class="caixote imagem">
-                    <img src="https://thepornmap.com/wp-content/uploads/2022/01/Diamond-Monroe.jpg" alt="lela star">
+                    <img src="https://image.r18hub.com/m-pornhd-vip/pics/devilsfilm/alura-jenson-derrick-pierce-sophia-grace/examination-deapthroat-xxxxxxxdp/alura-jenson-derrick-pierce-sophia-grace-3.jpg" alt="lela star">
                 </div>
                 <div class="caixote conteudo">
-                    <a href="https://pt.pornhub.com/video/search?search=diamond+monroe" target="_blank">DIAMOND MONROE</a>
+                    <a href="https://pt.pornhub.com/video/search?search=alura+jenson" target="_blank">ALURA JENSON</a>
                     <p>
                         21 de janeiro de 1993 
                     </p>
@@ -903,8 +903,23 @@
             <p><ion-icon name="arrow-up-outline"></ion-icon></p>
         </div>
 
-        <div class="adicionar" onclick="adiconarpornstar()">
+        <div class="adicionar" id="add">
             <p><ion-icon name="add-outline"></ion-icon></p>
+        </div>
+
+        <div class="adicionador" id="idadicionador">
+            <div class="modal">
+                <h1>Adicionar star</h1>
+                <form>
+                    <input type="text" name="nome" id="nomestar" placeholder="Nome da estrela..." autocomplete="off">
+                    <input type="text" name="link" id="linkstar" placeholder="Link do site..." autocomplete="off">
+                    <input type="text" name="imagem" id="imglinkstar" placeholder="Link da imagem..." autocomplete="off">
+                    <input type="button" name="adicionar" id="adiciona" value="Adicione">                   
+                </form>
+                <div class="sair" id="close">
+                    <ion-icon name="close-outline" id="closeicon"></ion-icon>
+                </div>
+            </div>
         </div>
 
         <footer>
@@ -925,39 +940,9 @@
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
+<script src="adicionador.js"></script>
 <script>
 
-    function adiconarpornstar()
-    {
-        let caixagrande = document.querySelector('.conteudo1')
-        let linkfoto = window.prompt('Coloque aqui o link endeço da imagem.')
-        let linksite = window.prompt('Coloque aqui o link do site da estrela.')
-        let nomedaestrela = window.prompt('Quase lá, Digite o nome da estrela. (de preferencia, tudo maiuculo)')
-        let datadenascimento = window.prompt('Por fim, digite a data de nascimento da estrela')
-
-        if(linkfoto.valueOf == null || linksite.valueOf == null || nomedaestrela.valueOf == null || datadenascimento.valueOf == null)
-        {
-            window.alert('FORNEÇA TODAS AS INFORMAÇÕES')
-        }
-        else
-        {
-
-        caixagrande.innerHTML += ` <div class="caixa">
-                <div class="caixote imagem">
-                    <img src="${linkfoto}" alt="lela star">
-                </div>
-                <div class="caixote conteudo">
-                    <a href="${linksite}" target="_blank">${nomedaestrela}</a>
-                    <p>
-                        ${datadenascimento}
-                    </p>
-                </div>
-            </div> `
-
-        }
-
-    }
 
 
     function pracimabtn()

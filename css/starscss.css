@@ -12,6 +12,13 @@
     box-sizing: border-box;
 }
 
+:root
+{
+    --preto: #1B1B1B;
+    --pretopreto:black;
+    --second:#FFA31A;
+    
+}
 
 .container
 {
@@ -24,7 +31,7 @@
     width: 100%;
     height: 100%;
 
-    background: rgb(2, 1, 17);
+    background: var(--preto);
 
     overflow: hidden;
 }
@@ -43,7 +50,7 @@
 
     padding: 20px 30px;
 
-    background: rgb(3, 20, 39);
+    background: var(--pretopreto);
 
 }
 
@@ -55,7 +62,7 @@
     bottom: -50px;
     left: 0;
 
-    background: linear-gradient(rgb(3, 20, 39)50%,transparent);
+    background: linear-gradient(var(--pretopreto)50%,transparent);
 
     width: 100%;
     height: 100px;
@@ -96,12 +103,12 @@
 
     text-decoration: none;
     transition: .2s;
-
+    color: var(--second);
 }
 
 .container .cabeca .sites ul li .canal.c1:hover
 {
-    color: #EA8F1C;
+    color: var(--second);
     font-weight: 700;
 }
 
@@ -150,7 +157,7 @@
     align-items: center;
     justify-content: center;
 
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.445);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.37);
     
     position: relative;
 
@@ -159,7 +166,7 @@
     width: 200px;
     height: 300px;
 
-    background: rgb(3, 20, 39);
+    background: transparent;
     margin: 20px;
 
     overflow: hidden;
@@ -207,11 +214,11 @@
 
     position: absolute;
     
-    width: 190px;
+    width: 200px;
     height: 290px;
 
     border-radius: 15px;
-    background: rgb(3, 20, 39);
+    background: var(--second);
 }
 
 .conteudo1 .caixa.adicionar::before
@@ -243,10 +250,10 @@
 .conteudo1 .caixa .caixote.imagem
 {
     position: absolute;
-    top: 5px;
-    left: 5px;
+    top: 0px;
+    left: 0px;
 
-    width: 95%;
+    width: 100%;
     height: 78%;
 
     border-radius: 15px 15px 0 0;
@@ -279,10 +286,11 @@
 .conteudo1 .caixa .caixote.conteudo a
 {
     text-decoration: none;
-    font-weight: 900;
-    font-size: 1.2em;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.1em;
     padding: 5px 0px;
-    
+    color: var(--pretopreto);
     
 }
 
@@ -290,7 +298,8 @@
 {
     margin-top: 5px;
     font-weight: 400;
-    font-size: .6em;
+    font-size: .8em;
+    color: var(--pretopreto);
 }
 
 .pracima
@@ -304,7 +313,7 @@
     height: 40px;
     border-radius: 50%;
     box-shadow: 0 10px 25px black;
-    background: rgb(3, 20, 39);
+    background: var(--second);
 
     display: none;
     align-items: center;
@@ -313,6 +322,11 @@
     z-index: 999;
 
     transition: .4s;
+}
+
+.pracima p ion-icon
+{
+    color: var(--pretopreto);
 }
 
 .adicionar
@@ -326,8 +340,8 @@
     height: 60px;
     border-radius: 50%;
     box-shadow: 0 10px 25px black;
-    background: rgb(3, 20, 39);
-
+    background: var(--second);
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -337,27 +351,36 @@
     transition: .4s;
 }
 
+
+
 .adicionar:hover
 {
-    background: rgb(9, 255, 0);
-    color:black;
+    background: var(--pretopreto);
+    color:var(--second);
 }
 
 .adicionar p ion-icon
 {
     font-size: 35px;
     font-weight: 700;
+    color: var(--pretopreto);
+}
+
+.pracima:hover p ion-icon,
+.adicionar:hover p ion-icon
+{
+    color:var(--second);
 }
 .pracima:hover
 {
-    background: rgb(25, 184, 184);
-    color:black;
+    background: var(--pretopreto);
+    
 }
 
 footer
 {
     width: 100%;
-    background: rgb(3, 20, 39);
+    background: var(--preto);
 
     display: flex;
     align-items: center;
@@ -377,15 +400,20 @@ footer .voltar a
 {
     padding: 5px 10px;
     border-radius: 10px;
-
+    color: var(--second);
     text-decoration: none;
     transition: .4s;
 
 }
 
+footer .voltar a ion-icon
+{
+    color: var(--second);
+}
+
 footer .voltar a:hover
 {
-    background: #ffffff;
+    background: var(--second);
     color: #000000;
     font-weight: 700;
 }
@@ -407,6 +435,7 @@ footer .mesiga
 footer .mesiga p
 {
     margin-right: 20px;
+    color: var(--second);
 }
 
 footer .mesiga ul
@@ -428,16 +457,18 @@ footer .mesiga ul li a
 {
     padding: 10px;
     font-size: 30px;
+    
 }
 
 footer .mesiga ul li a ion-icon
 {
     transition: .4s;
+    color: var(--second);
 }
 
 footer .mesiga ul li a:hover ion-icon
 {
-    color: rgb(0, 255, 242);
+    color: var(--pretopreto);
 }
 
 
@@ -582,5 +613,117 @@ footer .mesiga ul li a:hover ion-icon
         margin: 0;
     }
 
+    .adicionador .modal h1
+    {
+        font-size: 18px;
+    }
+ 
+    .adicionador .modal form input::placeholder
+{
+    font-size: small;
+}
 
+
+
+
+}
+
+.adicionador
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    background: #000000c2;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.adicionador.ativado
+{
+    display: flex;
+}
+
+.adicionador .modal
+{
+    position: relative;
+    background-color: var(--preto);
+    width: 70%;
+    padding: 24px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    box-shadow: 0px 24px 74px rgba(0, 0, 0, 0.932)
+}
+
+.adicionador .modal form
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    align-items: center;
+}
+
+.adicionador .modal form input
+{
+    width: 80%;
+    height: 40px;
+    padding: 12px;
+    background: transparent;
+    font-weight: 700;
+    font-size: 1rem;
+    border: 2px #e606b5 solid;
+    border-radius: 12px;
+}
+
+
+.adicionador .modal form input::placeholder
+{
+    color: #bbbaba;
+}
+
+.adicionador .modal form input#adiciona
+{
+    margin-top: 10px;
+    height: 44px;
+    background: #e606b5;
+    color: #ffffff;
+    transition: .3s ease;
+}
+
+.adicionador .modal form input#adiciona:hover
+{
+    background: #ac0688;
+    border: 2px #ac0688 solid;
+    color: #ffffff;
+}
+
+.adicionador .modal .sair
+{
+    background: #e606b5;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.185);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+
+.adicionador .modal .sair ion-icon 
+{
+    font-size: 1.5em;
+    font-weight: 700;
+    
 }

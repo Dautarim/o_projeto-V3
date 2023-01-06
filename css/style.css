@@ -12,12 +12,20 @@
 }
 /*https://cdn.pixabay.com/photo/2020/01/14/08/47/nude-4764469_960_720.jpg */
 
+
+:root
+{
+    --preto: #1B1B1B;
+    --pretopreto:black;
+    --second:#FFA31A;
+    
+}
 /* From uiverse.io by @adamgiebl */
 .cssbuttons-io-button {
     text-decoration: none;
 
-    background:  rgb(255, 0, 170)0;
-    color: white;
+    background:  var(--second);
+    color: var(--pretopreto);
     font-family: inherit;
 
     padding: 0.35em;
@@ -38,7 +46,7 @@
    }
    
    .cssbuttons-io-button .icon {
-     background: #333;
+     background: var(--pretopreto);
     margin-left: 1em;
     position: absolute;
     display: flex;
@@ -63,7 +71,7 @@
    .cssbuttons-io-button .icon svg {
     width: 1.1em;
     transition: all 0.5s;
-    color: rgb(255, 255, 255);
+    color: var(--second);
    }
    
    .cssbuttons-io-button:hover .icon svg {
@@ -92,7 +100,7 @@ body
 .container
 {
     position: relative;
-    background: #333;
+    background: var(--pretopreto);
 
     width: 500px;
     height: 300px;
@@ -116,7 +124,7 @@ body
     width: 98.5%;
     height:98%;
 
-    background: #333;
+    background: var(--pretopreto);
     border-radius: 18px;
 }
 .container::before
@@ -168,7 +176,7 @@ body
 .container .conteudo.informassao h2
 {
     font-size: 2.3em;
-    color: rgb(255, 0, 170);
+    color: var(--second);
     margin-bottom: 10px;
 }
 
