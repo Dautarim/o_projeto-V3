@@ -679,7 +679,7 @@ footer .mesiga ul li a:hover ion-icon
     background: transparent;
     font-weight: 700;
     font-size: 1rem;
-    border: 2px #e606b5 solid;
+    border: 2px var(--second) solid;
     border-radius: 12px;
 }
 
@@ -693,21 +693,19 @@ footer .mesiga ul li a:hover ion-icon
 {
     margin-top: 10px;
     height: 44px;
-    background: #e606b5;
-    color: #ffffff;
-    transition: .3s ease;
+    background: var(--second);
+    color: var(--pretopreto);
+    transition: .2s ease;
 }
 
 .adicionador .modal form input#adiciona:hover
 {
-    background: #ac0688;
-    border: 2px #ac0688 solid;
-    color: #ffffff;
+    scale: 1.02;
 }
 
 .adicionador .modal .sair
 {
-    background: #e606b5;
+    background: var(--second);
     width: 30px;
     height: 30px;
     display: flex;
@@ -725,5 +723,6 @@ footer .mesiga ul li a:hover ion-icon
 {
     font-size: 1.5em;
     font-weight: 700;
+    color: var(--pretopreto);
     
 }
