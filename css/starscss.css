@@ -291,7 +291,7 @@
     font-size: 1.1em;
     padding: 5px 0px;
     color: var(--pretopreto);
-    
+    text-transform: uppercase;
 }
 
 .conteudo1 .caixa .caixote.conteudo p
