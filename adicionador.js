@@ -125,6 +125,181 @@ const listaPstars = [
         linkSite:"https://pt.pornhub.com/pornstar/cassidy-banks",
         dataDeNascimento:"13 de Junho de 1985"
     }
+    ,
+    {
+        nome: "VIOLET MYERS",
+        linkImg:"https://s203.erome.com/845/Jn8maTaS/rRedQ7Hd.jpeg?v=1653343730",
+        linkSite:"https://pt.pornhub.com/video/search?search=violet+myers",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "DEE WILIAMS",
+        linkImg:"https://images.xmilfporn.com/wp-content/uploads/2019/10/dee-williams-ass-reduction-1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=dee+wiliams",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ANISSA KATE",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/Vx/gN/ks4X5yEgNVx/810738-anissa-kate-nude.jpg",
+        linkSite:"https://pt.pornhub.com/pornstar/anissa-kate",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "NATASHA NICE",
+        linkImg:"https://pbs.twimg.com/media/FYipkWOVQAAMS88.jpg:small",
+        linkSite:"https://pt.pornhub.com/video/search?search=natasha+nice",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LAUREN PHILIPS",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/HY/s7/BrLrPiNs7HY/564285-lauren-phillips-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=lauren+phillips",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LA SIRENA 69",
+        linkImg:"https://external-preview.redd.it/337gi_yzXKw1_1YJvlAicLeEajXHOJFARxv1ymmO7LY.jpg?auto=webp&s=e1d2aee062df0b9db5455d6c8d814f78f3b88c0c",
+        linkSite:"https://pt.pornhub.com/video/search?search=la+sirena+69",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "MORIAH MILLS",
+        linkImg:"https://www.sexosempudor.com/wp-content/uploads/2021/02/moriah-mills-mostram-os-peitoes-gostosos-18.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=moriah+mills",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LEXI LUNA",
+        linkImg:"https://cdn.erocurves.com/wp-content/uploads/2020/01/04/mylfboss_lexi_luna2_023.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=lexi+luna",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ATUMN FALLS",
+        linkImg:"https://adult-gazou-matome-channel.com/wp-content/uploads/2021/07/11860550_068_18b5-682x1024.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=autumn+falls",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ADVOREE",
+        linkImg:"https://cdn2.nudostar.com/wp-content/uploads/2020/04/Advoree_nudostar.com_14_18d72f.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=advoree",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ALISSON TYLER",
+        linkImg:"http://californiaboobies.com/wp-content/uploads/2017/09/Alison-Tyler.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=bunz+4+ever",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "AVA ADAMS",
+        linkImg:"http://i.redd.it/f4a0u9plj6741.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=ava+addams",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "EVA NOTTY",
+        linkImg:"https://e9r3m5w5.ssl.hwcdn.net/wp-content/uploads/2020/04/Naked-milf-Eve-Notty.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=eva+notty",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "BRANDI LOVE",
+        linkImg:"https://cdn.celebritynakeds.com/brandi-love-127?interlace=1&quality=85&type=jpeg&url=https%3A%2F%2Fi.redd.it%2F0a3lhuw0a0b61.jpg&width=400&sign=IkgZ3ze_ehqU-TJjMvj9AWizVlfCjYKH2DfLSJwCh5o",
+        linkSite:"https://pt.pornhub.com/video/search?search=brandi+love",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "BELLA BELZ",
+        linkImg:"https://image-service-ht.project1content.com/8c9/414/294/99e/488/599/b09/0af/0c2/17d/10/model/profile_001.jpg?width=600&aspectRatio=3x4&imageVersion=1654789360",
+        linkSite:"https://pt.pornhub.com/pornstar/bella-bellz",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LULU CHU",
+        linkImg:"https://cdni.pornpics.com/460/7/104/80354204/80354204_006_970b.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=lulu+chu",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "VALENTINA NAPPI",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/mo/XR/P3ks5VhXRmo/322188-valentina-nappi-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=valentina+nappi",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CHERIE DEVILE",
+        linkImg:"https://eoquetemprahj.com/wp-content/uploads/2016/04/Cherie-Deville.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=cherie+deville",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ROSE MONROE",
+        linkImg:"https://cdni.pornpics.com/460/7/106/56692604/56692604_032_e547.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=rose+monroe",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "VICTORIA JUNE",
+        linkImg:"https://collectionofbestporn.com/media/misc/model1721.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=victoria+june",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "SKYLAR VOX",
+        linkImg:"https://media.tits-guru.com/images/0d018c3b-952c-4a26-a740-ca0c725db2cf.jpeg",
+        linkSite:"https://pt.pornhub.com/video/search?search=skylar+vox",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LEAH GOTTI",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/ZG/6k/NvvqHiT6kZG/428077-leah-gotti-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=leah+gotti",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "YUM THE BOSS",
+        linkImg:"https://tt-lm.xhcdn.com/000/142/525/avatar2.jpg.v1651755713",
+        linkSite:"https://pt.pornhub.com/video/search?search=yum+the+boss",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "JASMINE JAE",
+        linkImg:"https://newvrporn.com/img/models/jasmine-jae.jpg",
+        linkSite:"https://pt.pornhub.com/pornstar/jasmine-jae",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "NICOLE ANISTON",
+        linkImg:"https://icdn.oyoh.com/thumb/b/795562/nicole-aniston-muito-sexy-como-ela-banheira-ao-ar-livre-banheira-de-hidromassagem-totalmente-nua.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=nicole+aniston",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
  
 ]
 
