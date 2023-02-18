@@ -300,6 +300,146 @@ const listaPstars = [
         linkSite:"https://pt.pornhub.com/video/search?search=nicole+aniston",
         dataDeNascimento:"13 de Junho de 1985"
     }
+    ,
+    {
+        nome: "GOGO FUCKME",
+        linkImg:"https://imgs1cdn.adultempire.com/actors/652175h.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=gogo+fukme",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "RACHEL STAR",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/de/ly/kQBJl4Hlyde/709502-rachel-starr-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=rachel+starr",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "RYAN SMILES",
+        linkImg:"https://hdxxx.photos/media/realitykings/ryan-smiles/call-pornstar-fotosex-porno/ryan-smiles-1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=ryan+smiles",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ALEXIS TEXAS",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/ek/KO/N2mU5SYKOek/854729-alexis-texas-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=alexis+texas",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CASCA AKASHOVA",
+        linkImg:"https://img7.hotnessrater.com/6512366/casca-akashova.jpg?w=500&h=750",
+        linkSite:"https://pt.pornhub.com/pornstar/casca-akashova",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "jADA STEVENS",
+        linkImg:"https://cdn.erocurves.com/wp-content/uploads/2019/03/12/jada-stevens-lingerie-strip.jpg",
+        linkSite:"https://pt.pornhub.com/pornstar/jada-stevens",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "SARAH BANKS",
+        linkImg:"https://www.mypornstarbook.net/pornstars/s/sarah_banks/gallery02/images/12.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sarah+banks",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ANGELA WHITE",
+        linkImg:"https://www.ligadasnovinhas.com/wp-content/uploads/2022/06/angela-white-dando-a-buceta-0.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=angela+white",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "RYAN COONER",
+        linkImg:"https://1.bp.blogspot.com/-Or5fPBvCTTc/XZrlPXlTAnI/AAAAAAAAg6E/nWQ9zicdbcc0BLJmJEJ6qLsKS2g_fKhnQCLcBGAsYHQ/s1600/loirona-madura-de-peitos-grandes-e-buceta-greluda-img7.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=ryan+conner",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "BLONDIE FASSER",
+        linkImg:"https://fucklouder.com/images/thumbs/pornostars/blondie-fesser.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=blondie+fesser",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "PETA JENSEM",
+        linkImg:"https://pbs.twimg.com/media/Cf7NzEyUIAAz9pk.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=peta+jensen",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ALEXIS FAUX",
+        linkImg:"https://i.ibb.co/86KnMd8/53574437-101-9333.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=alexis+fawx",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "HALLE HEYES",
+        linkImg:"https://www.101modeling.com/site/talent/Halle%20Hayes/DSC_8769.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=halle+hayes",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LUNA STAR",
+        linkImg:"https://static-push.pornototale.com/media/default/pornstars/pornstar_4146.jpg?ver=1643908593",
+        linkSite:"https://pt.pornhub.com/video/search?search=luna+star",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LUCIE WILDE",
+        linkImg:"https://b6z5d9u4.ssl.hwcdn.net/media/misc/model1089.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=lucie+wilde",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "KARMA RX",
+        linkImg:"https://www.musasbrasil.com/wp-content/uploads/2021/06/Karma-Rx-Nua-27.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=karma+rx",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "LENA RHOADES",
+        linkImg:"https://di-ph.rdtcdn.com/m=eQdw9f/pics/pornstars/000/255/751/thumb_1116181.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=lena+rhoades",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "RILEY REID",
+        linkImg:"https://devkis.club/uploads/posts/2019-09/1568127293_riley-reid-erotika-9.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=riley+reid",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ELSA JEAN",
+        linkImg:"https://img5.hotnessrater.com/3658628/elsa-jean-pussy.jpg?w=4000&h=6000",
+        linkSite:"https://pt.pornhub.com/video/search?search=elsa+jean",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "MARINA VISCONTI",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/Gy/y9/LmlsZply9Gy/557930-marina-visconti-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=marina+visconti",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
  
 ]
 
