@@ -440,6 +440,286 @@ const listaPstars = [
         linkSite:"https://pt.pornhub.com/video/search?search=marina+visconti",
         dataDeNascimento:"13 de Junho de 1985"
     }
+    ,
+    {
+        nome: "MADISON IVY",
+        linkImg:"http://i.redd.it/1u7ta2hu27k41.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=madison+ivy",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "RAE LIL BLACK",
+        linkImg:"https://media.tits-guru.com/images/97d33d62-4eb6-4393-86ff-c48b044e57b1.jpeg",
+        linkSite:"https://pt.pornhub.com/video/search?search=rae+lil+black",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ZAAWAADI",
+        linkImg:"https://cdn3.nude-pics.org/zaawaadi-9vunOymacD/zaawaadi.webp",
+        linkSite:"https://pt.pornhub.com/video/search?search=zaawaadi",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CANELA SKIN",
+        linkImg:"https://imgcloud.pw/images/2018/12/12/9b2f97e8dbc62a42d5fa6f73a97be39dbb8746cd9f33b9f4.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=canela+skin",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ARIELA FERRERA",
+        linkImg:"https://i.imgfv.com/misc/model295.jpg?45",
+        linkSite:"https://pt.pornhub.com/video/search?search=ariella+ferrera",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "IVY LEBELLE",
+        linkImg:"https://3.bp.blogspot.com/-eJOXSzPqTdQ/XrXaYG59ghI/AAAAAAAANGc/GUVLfIkHRC0hRgtXafSUXm0hogQ36NYuACLcBGAsYHQ/s1600/boabronha_25.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=ivy+lebelle",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "JULIE CASH",
+        linkImg:"https://www.gostosanovinha.com/wp-content/uploads/2021/02/Julie-Cash-13.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=julie+cash",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "MANDY MUSE",
+        linkImg:"https://lastfm.freetls.fastly.net/i/u/770x0/7d340a5bac8f9ca6b6cc0a30f1377ba9.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=mandy+muse",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CARMELA CLUTCH",
+        linkImg:"https://cdni.pornpics.com/460/7/601/52007648/52007648_021_85a7.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=carmela+clutch",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "SAVANNAH BOND",
+        linkImg:"https://www.gataspeladas.net/wp-content/uploads/2022/05/savannah-bond-fazendo-boquete-e-sentando-na-pica-do-dotado-3204.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=savannah+bond",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ALURA JENSON",
+        linkImg:"https://image.r18hub.com/m-pornhd-vip/pics/devilsfilm/alura-jenson-derrick-pierce-sophia-grace/examination-deapthroat-xxxxxxxdp/alura-jenson-derrick-pierce-sophia-grace-3.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=alura+jenson",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ABIIGAIL MORRIS",
+        linkImg:"https://www.babepedia.com/user-uploads/Abigaiil%20Morris6.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=abigaiil+morris",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "JENNA STAR",
+        linkImg:"https://image-service-ht.project1content.com/827/90f/3ad/923/436/c82/f03/20b/ab5/317/ae/model/profile_001.jpg?width=600&aspectRatio=3x4&imageVersion=1671634479",
+        linkSite:"https://pt.pornhub.com/video/search?search=jenna+starr",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "TRU KAIT",
+        linkImg:"https://img3.hotnessrater.com/6644418/tru-kait-topless.jpg?w=4000&h=6000",
+        linkSite:"https://pt.pornhub.com/video/search?search=tru+kait",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "EMILY WILLIS",
+        linkImg:"https://www.taxidrivermovie.com/wp-content/uploads/2019/07/mor-072419.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=emily+willis",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "VERONICA LEAL",
+        linkImg:"https://img5.hotnessrater.com/6383300/veronica-leal-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=veronica+leal",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CHANEL PRESTON",
+        linkImg:"https://2.bp.blogspot.com/-P0fzN7_AQiI/UxoFWj109EI/AAAAAAABJxQ/g8RVFNo8fvo/s1600/9.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=chanel+preston",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ROMI RAIN",
+        linkImg:"https://cdn.erocurves.com/wp-content/uploads/2020/04/30/0087.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=romi+rain",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "MEGAN RAIN",
+        linkImg:"https://f6j6u6m9.ssl.hwcdn.net/content/170713/20544_200.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=megan+rain",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "VICTORIA CAKES",
+        linkImg:"https://fucklouder.com/images/thumbs/pornostars/victoria-cakes.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=victoria+cakes",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "JULIA ANN",
+        linkImg:"https://pornstarswearingclothes.files.wordpress.com/2016/02/0021.jpg?w=593&h=890",
+        linkSite:"https://pt.pornhub.com/video/search?search=julia+ann",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ANGEL WICKY",
+        linkImg:"https://media.tits-guru.com/images/512bc1ce-724b-46e7-bb40-ef15432057c5.jpeg",
+        linkSite:"https://pt.pornhub.com/video/search?search=angel+wicky",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "REAGAN FOX",
+        linkImg:"https://cdni.pornpics.com/460/1/176/28690062/28690062_014_df9d.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=reagan+fox",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "AJ APPLEGATE",
+        linkImg:"https://q3d8u3m2.ssl.hwcdn.net/wp-content/uploads/2021/01/pornstar.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=aj+applegate",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ELISA SANCHEZ",
+        linkImg:"https://static1.brasileirinhas.com.br/arquivosDaCasa/ensaios/img/470/Elisa-Sanches-pelada-de-perna-aberta.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=elisa+sanchez",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "JOSLYN JAMES",
+        linkImg:"https://preview.redd.it/cdq2d29vkvt61.jpg?width=640&crop=smart&auto=webp&s=48897f97c3ec19c7fbfc95d3e4d2d8f649091488",
+        linkSite:"https://pt.pornhub.com/video/search?search=joslyn+james",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "NICOLETE SHEA",
+        linkImg:"https://onlymegalovers.com/wp-content/uploads/2022/05/preview33.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=reagan+fox",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "ANNA BELL PEAKS",
+        linkImg:"https://www.beautymovies.com/wp-content/uploads/2017/05/Anna-Bell-Peaks.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=anna+bell+peaks",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "SWEETIE FOX",
+        linkImg:"https://pbs.twimg.com/media/FkBkp9xWQAAlmEK.jpg:small",
+        linkSite:"https://pt.pornhub.com/video/search?search=sweetie+fox",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "CRISTAL LUST",
+        linkImg:"https://media.wankbus.com/albums/sources/1000/1651/31071.jpg",
+        linkSite:"https://pt.pornhub.com/model/crystal-lust",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "MISS LEXA",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/Ni/kJ/aRrq2u5kJNi/987360-misslexa.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=miss+lexa",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "YINY LEON",
+        linkImg:"https://video.erothots.co/s/https/s203.erome.com/845/RjW5d908/JDIjFH3D.jpeg",
+        linkSite:"https://pt.pornhub.com/video/search?search=yiny+leon",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "BOB BIG TULA",
+        linkImg:"https://di.phncdn.com/pics/albums/074/799/641/828830651/(m=e-yaaGqaa)(mh=Q4k-6kntycvdEcPc)original_828830651.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=bob+big+tula",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "EGG 2025",
+        linkImg:"https://s5.erome.com/1048/6LvptgNo/Q8eXdoSG.jpeg?v=1665986255",
+        linkSite:"https://pt.pornhub.com/video/search?search=egg2025",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "FABULOUSCB",
+        linkImg:"https://i.xgroovy.com/contents/videos_screenshots/199000/199281/640x360/1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=fabulouscb",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "SOPHIA LOCKE",
+        linkImg:"https://cdni.pornpics.com/460/7/609/23824115/23824115_049_cfda.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sophia+locke",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "sara jay",
+        linkImg:"https://thefappeningblog.com/cnt/s/a/sara-jay/2023-01-23-7aaf/sara-jay_thefappeningblog.com_0002.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sara+jay",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "sophie dee",
+        linkImg:"https://i.ebayimg.com/images/g/F88AAOSwHk5iBjiA/s-l500.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sophie+dee",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Anya Ivy",
+        linkImg:"https://static.spankbang.com/pornstarimg/f/530-250.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Anya+Ivy",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "gianna dior",
+        linkImg:"https://cdn3.nude-pics.org/gianna-dior-7u6yebldey/gianna-dior.webp",
+        linkSite:"https://pt.pornhub.com/video/search?search=gianna+dior",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
  
 ]
 
