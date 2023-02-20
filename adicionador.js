@@ -638,6 +638,111 @@ const listaPstars = [
     }
     ,
     {
+        nome: "SOPHIA LOCKE",
+        linkImg:"https://cdni.pornpics.com/460/7/609/23824115/23824115_049_cfda.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sophia+locke",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "sara jay",
+        linkImg:"https://thefappeningblog.com/cnt/s/a/sara-jay/2023-01-23-7aaf/sara-jay_thefappeningblog.com_0002.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sara+jay",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "sophie dee",
+        linkImg:"https://i.ebayimg.com/images/g/F88AAOSwHk5iBjiA/s-l500.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sophie+dee",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Anya Ivy",
+        linkImg:"https://static.spankbang.com/pornstarimg/f/530-250.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Anya+Ivy",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "gianna dior",
+        linkImg:"https://cdn3.nude-pics.org/gianna-dior-7u6yebldey/gianna-dior.webp",
+        linkSite:"https://pt.pornhub.com/video/search?search=gianna+dior",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "miss raquel",
+        linkImg:"https://cdni.pornpics.com/460/7/268/36966764/36966764_033_637d.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=miss+raquel",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Sheena Ryder",
+        linkImg:"https://eoquetemprahj.com/wp-content/uploads/2020/04/devils-film-with-jaye-summers-sheena-ryder-ricky-spanish-in-sharing-mommys-boy-toy-04.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sara+jay",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Syren De Mer",
+        linkImg:"http://img60.imagetwist.com/th/08496/j722koyc8pf7.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Syren+De+Mer",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Melissa Lynn",
+        linkImg:"https://eoquetemprahj.com/wp-content/uploads/2017/11/03-1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Melissa+Lynn",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Bridgette B",
+        linkImg:"https://milf.vip/pics/doctoradventures/bridgette-b/xxxbeata-milf-xxxevelin/bridgette-b-4.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Bridgette+B",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Misty Stone",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/cW/hJ/xIOZdfAhJcW/45625-misty-stone-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=miss+raquel",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Eliza Ibarra",
+        linkImg:"https://pic.r18hub.com/m-pornhd-vip/pics/brazzersnetwork/eliza-ibarra/flix-spooning-screaming-girl/eliza-ibarra-12.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Eliza+Ibarra",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "mia linz ",
+        linkImg:"https://fotosdemulheresnuas.net/wp-content/uploads/2018/12/mia-linz-bunduda-nua-1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=mia+linz ",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Melissa Lynn",
+        linkImg:"https://eoquetemprahj.com/wp-content/uploads/2017/11/03-1.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Melissa+Lynn",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "Bridgette B",
+        linkImg:"https://milf.vip/pics/doctoradventures/bridgette-b/xxxbeata-milf-xxxevelin/bridgette-b-4.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=Bridgette+B",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
         nome: "SWEETIE FOX",
         linkImg:"https://pbs.twimg.com/media/FkBkp9xWQAAlmEK.jpg:small",
         linkSite:"https://pt.pornhub.com/video/search?search=sweetie+fox",
@@ -683,41 +788,6 @@ const listaPstars = [
         nome: "FABULOUSCB",
         linkImg:"https://i.xgroovy.com/contents/videos_screenshots/199000/199281/640x360/1.jpg",
         linkSite:"https://pt.pornhub.com/video/search?search=fabulouscb",
-        dataDeNascimento:"13 de Junho de 1985"
-    }
-    ,
-    {
-        nome: "SOPHIA LOCKE",
-        linkImg:"https://cdni.pornpics.com/460/7/609/23824115/23824115_049_cfda.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=sophia+locke",
-        dataDeNascimento:"13 de Junho de 1985"
-    }
-    ,
-    {
-        nome: "sara jay",
-        linkImg:"https://thefappeningblog.com/cnt/s/a/sara-jay/2023-01-23-7aaf/sara-jay_thefappeningblog.com_0002.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=sara+jay",
-        dataDeNascimento:"13 de Junho de 1985"
-    }
-    ,
-    {
-        nome: "sophie dee",
-        linkImg:"https://i.ebayimg.com/images/g/F88AAOSwHk5iBjiA/s-l500.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=sophie+dee",
-        dataDeNascimento:"13 de Junho de 1985"
-    }
-    ,
-    {
-        nome: "Anya Ivy",
-        linkImg:"https://static.spankbang.com/pornstarimg/f/530-250.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=Anya+Ivy",
-        dataDeNascimento:"13 de Junho de 1985"
-    }
-    ,
-    {
-        nome: "gianna dior",
-        linkImg:"https://cdn3.nude-pics.org/gianna-dior-7u6yebldey/gianna-dior.webp",
-        linkSite:"https://pt.pornhub.com/video/search?search=gianna+dior",
         dataDeNascimento:"13 de Junho de 1985"
     }
  
