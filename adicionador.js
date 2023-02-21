@@ -794,47 +794,116 @@ const listaPstars = [
 ]
 
 listaPstars.forEach(e => 
-    {
-        /*----caixa pai----*/
-        const caixaPrincipal = document.createElement("div")
-        caixaPrincipal.classList.add("caixa")
+        {
+            /*----caixa pai----*/
+            const caixaPrincipal = document.createElement("div")
+            caixaPrincipal.classList.add("caixa")
+    
+           
+            /*----Primeiros filhos 2----*/
+            const filho1Imagem = document.createElement("div")
+            const filho2Nome = document.createElement("div")
+            
+            filho1Imagem.classList.add("caixote")
+            filho1Imagem.classList.add("imagem")
+    
+                /*----Primeiros netos 1----*/
+                const imagem = document.createElement("img")
+                imagem.setAttribute("src",`${e.linkImg}`)
+    
+                filho1Imagem.appendChild(imagem)
+    
+    
+            filho2Nome.classList.add("caixote")
+            filho2Nome.classList.add("conteudo")
+    
+                /*----Primeiros netos 2----*/
+                const linkSt = document.createElement("a")
+                linkSt.innerText = e.nome
+                linkSt.setAttribute("href",`${e.linkSite}`)
+                linkSt.setAttribute("target","_blank")
+                filho2Nome.appendChild(linkSt)
+    
+                const data = document.createElement("p")
+                data.innerText = e.dataDeNascimento
+                filho2Nome.appendChild(data)
+    
+    
+            caixaPrincipal.appendChild(filho1Imagem)
+            caixaPrincipal.appendChild(filho2Nome)
+    
+            caixa.appendChild(caixaPrincipal)
+    
+            // console.log(caixaPrincipal)
+            
+            
+        })
+
+
+
+         async function adicionar()
+        {
+            const daodosBruto = await fetch("https://next-project01.vercel.app/api/tempoo")
+            const modelsJson = await daodosBruto.json()
+            console.log(modelsJson)
+        }
+        adicionar()
+
+
+
+/*===========STAND BY=====================*/
+// async function adicionar()
+// {
+//     const daodosBruto = await fetch("https://next-project01.vercel.app/api/tempoo")
+//     const modelsJson = await daodosBruto.json()
+//     await console.log(modelsJson)
+
+
+//  listaPstars.forEach(e => 
+//     {
+//         /*----caixa pai----*/
+//         const caixaPrincipal = document.createElement("div")
+//         caixaPrincipal.classList.add("caixa")
 
        
-        /*----Primeiros filhos 2----*/
-        const filho1Imagem = document.createElement("div")
-        const filho2Nome = document.createElement("div")
+//         /*----Primeiros filhos 2----*/
+//         const filho1Imagem = document.createElement("div")
+//         const filho2Nome = document.createElement("div")
         
-        filho1Imagem.classList.add("caixote")
-        filho1Imagem.classList.add("imagem")
+//         filho1Imagem.classList.add("caixote")
+//         filho1Imagem.classList.add("imagem")
 
-            /*----Primeiros netos 1----*/
-            const imagem = document.createElement("img")
-            imagem.setAttribute("src",`${e.linkImg}`)
+//             /*----Primeiros netos 1----*/
+//             const imagem = document.createElement("img")
+//             imagem.setAttribute("src",`${e.linkImg}`)
 
-            filho1Imagem.appendChild(imagem)
-
-
-        filho2Nome.classList.add("caixote")
-        filho2Nome.classList.add("conteudo")
-
-            /*----Primeiros netos 2----*/
-            const linkSt = document.createElement("a")
-            linkSt.innerText = e.nome
-            linkSt.setAttribute("href",`${e.linkSite}`)
-            linkSt.setAttribute("target","_blank")
-            filho2Nome.appendChild(linkSt)
-
-            const data = document.createElement("p")
-            data.innerText = e.dataDeNascimento
-            filho2Nome.appendChild(data)
+//             filho1Imagem.appendChild(imagem)
 
 
-        caixaPrincipal.appendChild(filho1Imagem)
-        caixaPrincipal.appendChild(filho2Nome)
+//         filho2Nome.classList.add("caixote")
+//         filho2Nome.classList.add("conteudo")
 
-        caixa.appendChild(caixaPrincipal)
+//             /*----Primeiros netos 2----*/
+//             const linkSt = document.createElement("a")
+//             linkSt.innerText = e.nome
+//             linkSt.setAttribute("href",`${e.linkSite}`)
+//             linkSt.setAttribute("target","_blank")
+//             filho2Nome.appendChild(linkSt)
 
-        // console.log(caixaPrincipal)
+//             const data = document.createElement("p")
+//             data.innerText = e.dataDeNascimento
+//             filho2Nome.appendChild(data)
+
+
+//         caixaPrincipal.appendChild(filho1Imagem)
+//         caixaPrincipal.appendChild(filho2Nome)
+
+//         caixa.appendChild(caixaPrincipal)
+
+//         // console.log(caixaPrincipal)
         
         
-    })
+//     })
+
+//     }
+
