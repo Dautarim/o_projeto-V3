@@ -729,16 +729,16 @@ const listaPstars = [
     }
     ,
     {
-        nome: "Melissa Lynn",
-        linkImg:"https://eoquetemprahj.com/wp-content/uploads/2017/11/03-1.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=Melissa+Lynn",
+        nome: "kiara mia",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/6L/RZ/febXMmNRZ6L/414617-kiara-mia-nude.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=kiara+mia",
         dataDeNascimento:"13 de Junho de 1985"
     }
     ,
     {
-        nome: "Bridgette B",
-        linkImg:"https://milf.vip/pics/doctoradventures/bridgette-b/xxxbeata-milf-xxxevelin/bridgette-b-4.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=Bridgette+B",
+        nome: "sarai minx",
+        linkImg:"http://images2.bangbros.com/modelprofiles/38751_big.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=sarai+minx",
         dataDeNascimento:"13 de Junho de 1985"
     }
     ,
