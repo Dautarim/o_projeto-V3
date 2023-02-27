@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Comfortaa:wght@300;400;500;600;700&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 
 
 *
 {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Varela Round', sans-serif;
     color: white;
 
     padding: 0;
@@ -20,20 +20,26 @@
     
 }
 
+body
+{
+    min-height: 100vh;
+}
+
 .container
 {
    
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: column;
 
     width: 100%;
-    height: 100%;
+    min-height: 100vh;
 
     background: var(--preto);
 
     overflow: hidden;
+   
 }
 
 .container .cabeca
@@ -131,7 +137,7 @@
 
 .container .cabeca .sites ul li a
 {
-
+    
     text-decoration: none;
     transition: .2s;
     color: var(--second);
@@ -141,6 +147,7 @@
 {
     color: var(--second);
     font-weight: 700;
+    
 }
 
 .container .cabeca .sites ul li .canal.c2:hover
@@ -318,7 +325,6 @@
 {
     text-decoration: none;
     font-weight: 700;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 1.1em;
     padding: 5px 0px;
     color: var(--pretopreto);
@@ -609,7 +615,7 @@ footer .mesiga ul li a:hover ion-icon
 
         border-radius: 10px;
         background: var(--pretopreto);
-
+        /* border: 1px solid white; */
         display: flex;
         align-items: center;
         justify-content: center;
@@ -641,7 +647,7 @@ footer .mesiga ul li a:hover ion-icon
 
     .container .cabeca .menucontrol.ativo span:nth-child(1)
     {
-        transform: rotate(45deg) translateY(5px) translateX(5px);
+        transform: rotate(45deg) translateY(4px) translateX(4px);
     }
 
     .container .cabeca .menucontrol span:nth-child(2)
@@ -654,14 +660,10 @@ footer .mesiga ul li a:hover ion-icon
         opacity: 0;
     }
 
-    .container .cabeca .menucontrol span:nth-child(3)
-    {
-
-    }
 
     .container .cabeca .menucontrol.ativo span:nth-child(3)
     {
-        transform: rotate(-45deg)translateY(-6px) translateX(6px);
+        transform: rotate(-45deg)translateY(-4.5px) translateX(4.5px);
     }
 
     footer 
