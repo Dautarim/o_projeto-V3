@@ -794,7 +794,7 @@ const listaPstars = [
 ]
 
 listaPstars.forEach(e => 
-        {
+{
             /*----caixa pai----*/
             const caixaPrincipal = document.createElement("div")
             caixaPrincipal.classList.add("caixa")
@@ -822,6 +822,7 @@ listaPstars.forEach(e =>
                 linkSt.innerText = e.nome
                 linkSt.setAttribute("href",`${e.linkSite}`)
                 linkSt.setAttribute("target","_blank")
+                linkSt.setAttribute("id","linkstar")
                 filho2Nome.appendChild(linkSt)
     
                 const data = document.createElement("p")
@@ -840,14 +841,88 @@ listaPstars.forEach(e =>
         })
 
 
+/*================Add search module=======================*/
 
-         async function adicionar()
-        {
-            const daodosBruto = await fetch("https://next-project01.vercel.app/api/tempoo")
-            const modelsJson = await daodosBruto.json()
-            console.log(modelsJson)
-        }
-        adicionar()
+const searchImput = document.querySelector('#searchImpt')
+
+const arrPstar = document.querySelectorAll('.caixa')
+
+searchImput.addEventListener("keyup",procura)
+
+let tempoDebounce = null
+function procura()
+{
+    if(searchImput.value)
+    {
+        arrPstar.forEach((e)=>{
+            let pesquisa = searchImput.value
+            pesquisa = pesquisa.toLowerCase()
+            
+            let nomedela = e.querySelector('#linkstar').innerText
+            nomedela = nomedela.toLowerCase()
+
+            if(!nomedela.includes(pesquisa))
+            {
+                e.style.display = "none"
+            }
+            else
+            {
+                e.style.display = "flex"
+            }
+
+        })
+    }
+    else
+    {
+       arrPstar.forEach((e)=>
+       { 
+        e.style.display = "flex"
+        })
+    }
+    
+
+
+    //Prevenção Debounce
+    // clearTimeout(tempoDebounce)
+
+    // tempoDebounce = setTimeout(()=>{
+    //    console.log(searchImput.value)
+    // },1000)
+       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //  async function adicionar()
+        // {
+        //     const daodosBruto = await fetch("https://next-project01.vercel.app/api/tempoo")
+        //     const modelsJson = await daodosBruto.json()
+        //     console.log(modelsJson)
+        // }
+        // adicionar()
 
 
 
