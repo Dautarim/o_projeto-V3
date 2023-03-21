@@ -199,7 +199,7 @@ const listaPstars = [
     {
         nome: "ALISSON TYLER",
         linkImg:"http://californiaboobies.com/wp-content/uploads/2017/09/Alison-Tyler.jpg",
-        linkSite:"https://pt.pornhub.com/video/search?search=bunz+4+ever",
+        linkSite:"https://pt.pornhub.com/video/search?search=ALISSON+TYLER",
         dataDeNascimento:"13 de Junho de 1985"
     }
     ,
@@ -739,6 +739,42 @@ const listaPstars = [
         nome: "sarai minx",
         linkImg:"http://images2.bangbros.com/modelprofiles/38751_big.jpg",
         linkSite:"https://pt.pornhub.com/video/search?search=sarai+minx",
+        dataDeNascimento:"13 de Junho de 1985"
+    },
+
+    //newwwww
+    {
+        nome: "kazumi ",
+        linkImg:"https://ic-tt-lm.xhcdn.com/a/N2Y2MGEzM2E2NDM3YmVlYjFiZDkzYWFiOTA4YzhiN2M/jpeg/000/154/089/avatar2.jpg.v1666276039",
+        linkSite:"https://pt.pornhub.com/video/search?search=kazumi",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "gina valentina",
+        linkImg:"https://cdn.celebritynakeds.com/goddess-499?interlace=1&quality=85&type=jpeg&url=https%3A%2F%2Fi.redd.it%2Fwf5w0oq5069a1.jpg&width=400&sign=0RR4YH2PnzXRYLizhLcZTABnuTmpEoXs_b_L9hGpnaA",
+        linkSite:"https://pt.pornhub.com/video/search?search=gina+valentina",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "abella danger",
+        linkImg:"https://i.ebayimg.com/images/g/b0QAAOSwLxZiN1q6/s-l1600.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=abella+danger",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "jordyn falls",
+        linkImg:"https://tt-lm.xhcdn.com/000/149/943/avatar2.jpg.v1661271923",
+        linkSite:"https://pt.pornhub.com/video/search?search=jordyn+falls",
+        dataDeNascimento:"13 de Junho de 1985"
+    }
+    ,
+    {
+        nome: "anya ivy ",
+        linkImg:"https://cdn.pics-x.com/pornstars/a/anya-ivy-10622.jpg",
+        linkSite:"https://pt.pornhub.com/video/search?search=anya+ivy ",
         dataDeNascimento:"13 de Junho de 1985"
     }
     ,
