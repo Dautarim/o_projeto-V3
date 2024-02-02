@@ -107,7 +107,7 @@ const listaPstars = [
     ,
     {
         nome: "LENA PAUL",
-        linkImg:"https://suspiro.blog.br/wp-content/uploads/2021/11/Lena-Paul-4-768x1024.jpg",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/yM/do/fijFc3ddoyM/304534-lena-paul-nude.jpg",
         linkSite:"https://pt.pornhub.com/video/search?search=lena+paul",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -128,7 +128,7 @@ const listaPstars = [
     ,
     {
         nome: "VIOLET MYERS",
-        linkImg:"https://s203.erome.com/845/Jn8maTaS/rRedQ7Hd.jpeg?v=1653343730",
+        linkImg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLZke8hBw1B4ktkbA1dkPrkiyZkxAEK5ry8oQ75mtIwUfVUWjUOjWhXYr8Gt4rLeRejI&usqp=CAU",
         linkSite:"https://pt.pornhub.com/video/search?search=violet+myers",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -212,7 +212,7 @@ const listaPstars = [
     ,
     {
         nome: "EVA NOTTY",
-        linkImg:"https://e9r3m5w5.ssl.hwcdn.net/wp-content/uploads/2020/04/Naked-milf-Eve-Notty.jpg",
+        linkImg:"https://img1.hotnessrater.com/4806160/eva-notty-nude.jpg?w=4000&h=6000",
         linkSite:"https://pt.pornhub.com/video/search?search=eva+notty",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -240,7 +240,7 @@ const listaPstars = [
     ,
     {
         nome: "VALENTINA NAPPI",
-        linkImg:"https://static-ca-cdn.eporner.com/gallery/mo/XR/P3ks5VhXRmo/322188-valentina-nappi-nude.jpg",
+        linkImg:"https://pbs.twimg.com/media/DGnirnDXYAAv2IT.jpg:large",
         linkSite:"https://pt.pornhub.com/video/search?search=valentina+nappi",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -268,7 +268,7 @@ const listaPstars = [
     ,
     {
         nome: "SKYLAR VOX",
-        linkImg:"https://media.tits-guru.com/images/0d018c3b-952c-4a26-a740-ca0c725db2cf.jpeg",
+        linkImg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3F32eey0yR0YZotf_rnfNkvBQ0zUIQIi6tiTxDbAkhqrQzd8Qv-VBcu7qcW_OApUNYU&usqp=CAU",
         linkSite:"https://pt.pornhub.com/video/search?search=skylar+vox",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -324,7 +324,7 @@ const listaPstars = [
     ,
     {
         nome: "ALEXIS TEXAS",
-        linkImg:"https://static-ca-cdn.eporner.com/gallery/ek/KO/N2mU5SYKOek/854729-alexis-texas-nude.jpg",
+        linkImg:"https://cdni.nastypornpics.com/460/1/84/37806595/37806595_007_dac1.jpg",
         linkSite:"https://pt.pornhub.com/video/search?search=alexis+texas",
         dataDeNascimento:"13 de Junho de 1985"
     }
