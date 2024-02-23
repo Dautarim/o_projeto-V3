@@ -9,7 +9,7 @@ function abrirpoupap(idjanela)
     let fecharicone = document.getElementById("closeicon")
 
     console.log(janela)
-    // cadicionar classe ativadora
+    // cadicionar classe ativadora 
     janela.classList.add("ativado")
     
     //para monitorar onde clica e sair
@@ -38,7 +38,7 @@ const btnadstar = document.getElementById("adiciona").addEventListener("click", 
             <img src="${imagem}" alt="${nome}">
         </div>
         <div class="caixote conteudo">
-            <a href="${link}" target="_blank">${nome}</a>
+            <a href="${link}" ">${nome}</a>
             <p>
                 13 de Junho de 1985
             </p>
@@ -69,7 +69,7 @@ const listaPstars = [
         linkSite:"https://pt.pornhub.com/pornstar/harley-dean",
         dataDeNascimento:"13 de Junho de 1985"
     }
-    ,
+    , 
     {
         nome: "CECILIA LION",
         linkImg:"https://www.nudelas.com/wp-content/uploads/2020/09/cecilia-lion-10.jpg",
@@ -387,7 +387,7 @@ const listaPstars = [
     ,
     {
         nome: "HALLE HEYES",
-        linkImg:"https://www.101modeling.com/site/talent/Halle%20Hayes/DSC_8769.jpg",
+        linkImg:"https://avatars.mds.yandex.net/i?id=8ac5eaf925f352ed34161bbe10a5177b9d4d515f-8829620-images-thumbs&n=13",
         linkSite:"https://pt.pornhub.com/video/search?search=halle+hayes",
         dataDeNascimento:"13 de Junho de 1985"
     }
@@ -401,7 +401,7 @@ const listaPstars = [
     ,
     {
         nome: "LUCIE WILDE",
-        linkImg:"https://b6z5d9u4.ssl.hwcdn.net/media/misc/model1089.jpg",
+        linkImg:"https://static-ca-cdn.eporner.com/gallery/jE/Gb/CJiSDlKGbjE/140454-lucie-wilde-nude.jpg",
         linkSite:"https://pt.pornhub.com/video/search?search=lucie+wilde",
         dataDeNascimento:"13 de Junho de 1985"
     }
